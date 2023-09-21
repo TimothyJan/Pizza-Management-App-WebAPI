@@ -13,7 +13,7 @@ Create a web API with ASP.NET Core controllers <a href="https://learn.microsoft.
   <li>~<code>httprepl https://localhost:{PORT}</code> to connect to the web API.
     <ul>
       <li>~<code>ls</code> to explore available endpoints.</li>
-      <li>~<code>exit</code> to end th current <code>HttpRepl</code> session.</li>
+      <li>~<code>exit</code> to end the current <code>HttpRepl</code> session.</li>
     </ul>
   </li>
   <li>Create a pizza model.</li>
