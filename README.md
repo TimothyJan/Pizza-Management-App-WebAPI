@@ -17,7 +17,7 @@ Create a web API with ASP.NET Core controllers <a href="https://learn.microsoft.
     </ul>
   </li>
   <li>Create a pizza model.</li>
-  <li>Add a data service.</li>
+  <li>Create a data service.</li>
   <li>~<code>dotnet build</code> to build the web API project.</li>
   <li>Create a controller. Create and test REST verb functions.</li>
 </ul>
